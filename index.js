@@ -1,5 +1,11 @@
 const app = require('express')();
 const { AppConfig}  = require('./config');
+const Auth0Strategy = require('passport-auth0');
+
+const a = new Auth0Strategy({
+    clientID
+});
+
 
 app.post('/signup');
 

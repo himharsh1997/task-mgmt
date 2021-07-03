@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/himharsh1997/task-mgmt#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "passport-auth0": "^1.4.0"
   },
   "devDependencies": {
     "mocha": "^9.0.2"
