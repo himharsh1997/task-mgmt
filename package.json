@@ -1,0 +1,26 @@
+{
+  "name": "task-mgmt",
+  "version": "1.0.0",
+  "description": "Task management microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himharsh1997/task-mgmt.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB",
+    "auth0",
+    "Huroko",
+    "Microservice"
+  ],
+  "author": "Himanshu Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himharsh1997/task-mgmt/issues"
+  },
+  "homepage": "https://github.com/himharsh1997/task-mgmt#readme"
+}
