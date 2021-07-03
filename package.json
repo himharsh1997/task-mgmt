@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/himharsh1997/task-mgmt/issues"
   },
-  "homepage": "https://github.com/himharsh1997/task-mgmt#readme"
+  "homepage": "https://github.com/himharsh1997/task-mgmt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  }
 }
